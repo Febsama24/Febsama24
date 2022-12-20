@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my personal projects<br>👯 I want to collaborate with companies in the IT sector<br>🤝 I can provide assistance regarding digital technology<br>🌱 I'm learning php, python, and some javascript frameworks (react js and node js)<br>💬 Ask me about IT<br>⚡ I like challenges, want to learn new knowledge about the world of IT
 
+<img src="https://github.com/JerryWilsonSitompul/jerrywilsonsitompul/blob/master/giphy.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/febsama24) 
