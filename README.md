@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Febsama24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](Masalah utama seorang programmer adalah kamu tidak pernah tau apa yang sedang orang lain kerjakan, Sampai ketika masalah itu muncul dan sudah terlambat untuk mengatasinya&type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Febsama24&icon=5&color=1)](https://visitcount.itsvg.in)
